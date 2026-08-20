@@ -54,4 +54,6 @@ Example Result
 Original	Processed    
 <img width="1920" height="660" alt="Screenshot 2026-08-20 170626" src="https://github.com/user-attachments/assets/d87e6f89-63bc-4daa-a7e8-d583886e6c2b" />
 
-|     Original uploaded image	Resized to 800px wide, watermarked, compressed JPEG
+Original uploaded image	Resized to 800px wide, watermarked, compressed JPEG
+<img width="1920" height="678" alt="Screenshot 2026-08-20 170637" src="https://github.com/user-attachments/assets/6c45d962-d7ba-4e65-bebb-2caf34460d4a" />
+
