@@ -51,4 +51,7 @@ Upload a test image and confirm the processed version appears in the destination
 
 Example Result
 ----------------
-Original	Processed    |     Original uploaded image	Resized to 800px wide, watermarked, compressed JPEG
+Original	Processed    
+<img width="1920" height="660" alt="Screenshot 2026-08-20 170626" src="https://github.com/user-attachments/assets/d87e6f89-63bc-4daa-a7e8-d583886e6c2b" />
+
+|     Original uploaded image	Resized to 800px wide, watermarked, compressed JPEG
